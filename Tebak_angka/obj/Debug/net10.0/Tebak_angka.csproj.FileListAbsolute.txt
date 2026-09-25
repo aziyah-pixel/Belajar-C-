@@ -1,0 +1,15 @@
+D:\GITHUB\Belajar-C-\Tebak_angka\obj\Debug\net10.0\Tebak_angka.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\Belajar-C-\Tebak_angka\obj\Debug\net10.0\Tebak_angka.AssemblyInfoInputs.cache
+D:\GITHUB\Belajar-C-\Tebak_angka\obj\Debug\net10.0\Tebak_angka.AssemblyInfo.cs
+D:\GITHUB\Belajar-C-\Tebak_angka\obj\Debug\net10.0\Tebak_angka.csproj.CoreCompileInputs.cache
+D:\GITHUB\Belajar-C-\Tebak_angka\obj\Debug\net10.0\Tebak_angka.sourcelink.json
+D:\GITHUB\Belajar-C-\Tebak_angka\bin\Debug\net10.0\Tebak_angka.exe
+D:\GITHUB\Belajar-C-\Tebak_angka\bin\Debug\net10.0\Tebak_angka.deps.json
+D:\GITHUB\Belajar-C-\Tebak_angka\bin\Debug\net10.0\Tebak_angka.runtimeconfig.json
+D:\GITHUB\Belajar-C-\Tebak_angka\bin\Debug\net10.0\Tebak_angka.dll
+D:\GITHUB\Belajar-C-\Tebak_angka\bin\Debug\net10.0\Tebak_angka.pdb
+D:\GITHUB\Belajar-C-\Tebak_angka\obj\Debug\net10.0\Tebak_angka.dll
+D:\GITHUB\Belajar-C-\Tebak_angka\obj\Debug\net10.0\refint\Tebak_angka.dll
+D:\GITHUB\Belajar-C-\Tebak_angka\obj\Debug\net10.0\Tebak_angka.pdb
+D:\GITHUB\Belajar-C-\Tebak_angka\obj\Debug\net10.0\Tebak_angka.genruntimeconfig.cache
+D:\GITHUB\Belajar-C-\Tebak_angka\obj\Debug\net10.0\ref\Tebak_angka.dll
