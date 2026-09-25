@@ -1,0 +1,15 @@
+D:\GITHUB\Belajar-c-\Konversi_suhu\bin\Debug\net10.0\Konversi_suhu.exe
+D:\GITHUB\Belajar-c-\Konversi_suhu\bin\Debug\net10.0\Konversi_suhu.deps.json
+D:\GITHUB\Belajar-c-\Konversi_suhu\bin\Debug\net10.0\Konversi_suhu.runtimeconfig.json
+D:\GITHUB\Belajar-c-\Konversi_suhu\bin\Debug\net10.0\Konversi_suhu.dll
+D:\GITHUB\Belajar-c-\Konversi_suhu\bin\Debug\net10.0\Konversi_suhu.pdb
+D:\GITHUB\Belajar-c-\Konversi_suhu\obj\Debug\net10.0\Konversi_suhu.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\Belajar-c-\Konversi_suhu\obj\Debug\net10.0\Konversi_suhu.AssemblyInfoInputs.cache
+D:\GITHUB\Belajar-c-\Konversi_suhu\obj\Debug\net10.0\Konversi_suhu.AssemblyInfo.cs
+D:\GITHUB\Belajar-c-\Konversi_suhu\obj\Debug\net10.0\Konversi_suhu.csproj.CoreCompileInputs.cache
+D:\GITHUB\Belajar-c-\Konversi_suhu\obj\Debug\net10.0\Konversi_suhu.sourcelink.json
+D:\GITHUB\Belajar-c-\Konversi_suhu\obj\Debug\net10.0\Konversi_suhu.dll
+D:\GITHUB\Belajar-c-\Konversi_suhu\obj\Debug\net10.0\refint\Konversi_suhu.dll
+D:\GITHUB\Belajar-c-\Konversi_suhu\obj\Debug\net10.0\Konversi_suhu.pdb
+D:\GITHUB\Belajar-c-\Konversi_suhu\obj\Debug\net10.0\Konversi_suhu.genruntimeconfig.cache
+D:\GITHUB\Belajar-c-\Konversi_suhu\obj\Debug\net10.0\ref\Konversi_suhu.dll
