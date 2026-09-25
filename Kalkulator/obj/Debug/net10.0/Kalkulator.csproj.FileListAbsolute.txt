@@ -1,0 +1,15 @@
+D:\GITHUB\Belajar-C-\Kalkulator\bin\Debug\net10.0\Kalkulator.exe
+D:\GITHUB\Belajar-C-\Kalkulator\bin\Debug\net10.0\Kalkulator.deps.json
+D:\GITHUB\Belajar-C-\Kalkulator\bin\Debug\net10.0\Kalkulator.runtimeconfig.json
+D:\GITHUB\Belajar-C-\Kalkulator\bin\Debug\net10.0\Kalkulator.dll
+D:\GITHUB\Belajar-C-\Kalkulator\bin\Debug\net10.0\Kalkulator.pdb
+D:\GITHUB\Belajar-C-\Kalkulator\obj\Debug\net10.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\Belajar-C-\Kalkulator\obj\Debug\net10.0\Kalkulator.AssemblyInfoInputs.cache
+D:\GITHUB\Belajar-C-\Kalkulator\obj\Debug\net10.0\Kalkulator.AssemblyInfo.cs
+D:\GITHUB\Belajar-C-\Kalkulator\obj\Debug\net10.0\Kalkulator.csproj.CoreCompileInputs.cache
+D:\GITHUB\Belajar-C-\Kalkulator\obj\Debug\net10.0\Kalkulator.sourcelink.json
+D:\GITHUB\Belajar-C-\Kalkulator\obj\Debug\net10.0\Kalkulator.dll
+D:\GITHUB\Belajar-C-\Kalkulator\obj\Debug\net10.0\refint\Kalkulator.dll
+D:\GITHUB\Belajar-C-\Kalkulator\obj\Debug\net10.0\Kalkulator.pdb
+D:\GITHUB\Belajar-C-\Kalkulator\obj\Debug\net10.0\Kalkulator.genruntimeconfig.cache
+D:\GITHUB\Belajar-C-\Kalkulator\obj\Debug\net10.0\ref\Kalkulator.dll
