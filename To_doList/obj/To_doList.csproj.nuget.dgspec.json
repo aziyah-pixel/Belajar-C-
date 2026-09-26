@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GITHUB\\Belajar-c-\\To_doList\\To_doList.csproj": {}
+    "D:\\GITHUB\\Belajar-C-\\To_doList\\To_doList.csproj": {}
   },
   "projects": {
-    "D:\\GITHUB\\Belajar-c-\\To_doList\\To_doList.csproj": {
+    "D:\\GITHUB\\Belajar-C-\\To_doList\\To_doList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GITHUB\\Belajar-c-\\To_doList\\To_doList.csproj",
+        "projectUniqueName": "D:\\GITHUB\\Belajar-C-\\To_doList\\To_doList.csproj",
         "projectName": "To_doList",
-        "projectPath": "D:\\GITHUB\\Belajar-c-\\To_doList\\To_doList.csproj",
+        "projectPath": "D:\\GITHUB\\Belajar-C-\\To_doList\\To_doList.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\GITHUB\\Belajar-c-\\To_doList\\obj\\",
+        "outputPath": "D:\\GITHUB\\Belajar-C-\\To_doList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,13 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
+﻿//impor namespace 
+using System;
+using System.Collections.Generic;//untuk list T
 
-List<string> daftarTugas = new List<string>();
+List<string> daftarTugas = new List<string>();//membuat list dengan nama daftar tugas
 
-bool programBerjalan = true;
+bool programBerjalan = true;//membuat variabel untuk menentukan program masih berjalan 
 
-while (programBerjalan)
+while (programBerjalan)//perulangan selama program masih berjalan
 {
-    Console.clear();
+    Console.Clear();//membersihkan tampilan 
 
     Console.WriteLine("==TO Do List==");
     Console.WriteLine("1. Tambah Tugas");
@@ -84,7 +85,7 @@ void LihatTugas()
     else{
         for (int i = 0; i < daftarTugas.Count; i++)
         {
-            Console.WriteLine(i + 1. daftarTugas(i));
+           Console.WriteLine($"{i + 1}. {daftarTugas[i]}");
         }
     }
     TekanEnter();
@@ -124,4 +125,49 @@ void SelesaikanTugas()
     }
 
     TekanEnter();
+}
+
+//method hapus tugas
+void HapusTugas()
+{
+    Console.Clear();
+    Console.WriteLine("==Hapus Tugas==");
+
+    if (daftarTugas.Count == 0)
+    {
+        Console.WriteLine("Belum Ada Tugas");
+        TekanEnter();
+        return;
+    }
+
+    for (int i = 0; i < daftarTugas.Count; i++)
+    {
+       Console.WriteLine($"{i + 1}. {daftarTugas[i]}");
+    }
+    
+    Console.Write("pilih nomer yang akan dihapus: ");
+    if (int.TryParse(Console.ReadLine(), out int nomor))
+    {
+        if (nomor >= 1 && nomor <= daftarTugas.Count)
+        {
+            daftarTugas.RemoveAt(nomor - 1);
+            Console.WriteLine("Tugas berhasil di hapus.");
+        }
+        else
+        {
+            Console.WriteLine("Nomor Tugas tidak tersedia");
+        }
+    }
+    else{
+        Console.WriteLine("Input Harus berupa Angka.");
+    }
+    TekanEnter();
+}
+
+//method tekan enter
+void TekanEnter()
+{
+    Console.WriteLine();
+    Console.WriteLine("Tekan enter untuk melanjutkan...");
+    Console.ReadLine();
 }

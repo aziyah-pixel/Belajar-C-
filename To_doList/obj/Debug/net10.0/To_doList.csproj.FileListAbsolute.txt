@@ -1,0 +1,15 @@
+D:\GITHUB\Belajar-C-\To_doList\obj\Debug\net10.0\To_doList.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\Belajar-C-\To_doList\obj\Debug\net10.0\To_doList.AssemblyInfoInputs.cache
+D:\GITHUB\Belajar-C-\To_doList\obj\Debug\net10.0\To_doList.AssemblyInfo.cs
+D:\GITHUB\Belajar-C-\To_doList\obj\Debug\net10.0\To_doList.csproj.CoreCompileInputs.cache
+D:\GITHUB\Belajar-C-\To_doList\obj\Debug\net10.0\To_doList.sourcelink.json
+D:\GITHUB\Belajar-C-\To_doList\bin\Debug\net10.0\To_doList.exe
+D:\GITHUB\Belajar-C-\To_doList\bin\Debug\net10.0\To_doList.deps.json
+D:\GITHUB\Belajar-C-\To_doList\bin\Debug\net10.0\To_doList.runtimeconfig.json
+D:\GITHUB\Belajar-C-\To_doList\bin\Debug\net10.0\To_doList.dll
+D:\GITHUB\Belajar-C-\To_doList\bin\Debug\net10.0\To_doList.pdb
+D:\GITHUB\Belajar-C-\To_doList\obj\Debug\net10.0\To_doList.dll
+D:\GITHUB\Belajar-C-\To_doList\obj\Debug\net10.0\refint\To_doList.dll
+D:\GITHUB\Belajar-C-\To_doList\obj\Debug\net10.0\To_doList.pdb
+D:\GITHUB\Belajar-C-\To_doList\obj\Debug\net10.0\To_doList.genruntimeconfig.cache
+D:\GITHUB\Belajar-C-\To_doList\obj\Debug\net10.0\ref\To_doList.dll
